@@ -1,4 +1,4 @@
-# Basic Python variables
+# Basic Python variables with Examples
 
 print("Hello World")
 print("My name is Vishal,", "I am", 40, "years of Age.")
