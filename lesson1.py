@@ -1,6 +1,6 @@
 # Basic Python variables with Examples
 
-print("Hello World")
+print("Hello Fantastic World")
 print("My name is Vishal,", "I am", 40, "years of Age.")
 # above ',' is used to add two or more sentences, also numbers/integer do not need inverted commas
 print(35+10)   # python prints the output directly, it does not need declarations
